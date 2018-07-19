@@ -1,0 +1,47 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  background-color: #3877D6;
+}
+
+.container {
+ width: 960px;
+ margin: 0 auto;
+ background-color: #fff;
+ height: 400px;
+ margin-top: 10px;
+ }
+
+h1 {
+font-family: verdana:
+color: rgb(84, 84, 172);
+}
+
+.data {
+ width: 800px;
+ padding: 10px;
+ margin-top: 20px;
+}
+
+.data select {
+width: 200px;
+padding: 3px;
+margin: 20px 0px;
+float: left;
+position: relative;
+margin-right: 20px;
+}
+
+.submit {
+ margin-top: 18px;
+width: 100px;
+padding: 6px;
+border: none;
+font-weight: bold;
+outline: none;
+background: blue;
+color: #fff;
+}
